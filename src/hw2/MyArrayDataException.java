@@ -1,3 +1,5 @@
+package hw2;
+
 public class MyArrayDataException extends RuntimeException {
 
     public MyArrayDataException(int rowIdx, int columnIdx){
